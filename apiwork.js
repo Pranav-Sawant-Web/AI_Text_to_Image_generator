@@ -1,6 +1,6 @@
 // api url and token
 const URL = "https://api.monsterapi.ai/v1/generate/txt2img";
-const TOKEN = "YOUR_TOKEN";
+const TOKEN = "PLace your copied key here";
 
 // importing functions to transfer images
 import { UpdateImageBox } from "./script.js";
